@@ -1,0 +1,2 @@
+# FinInventory
+Inventory Management System
